@@ -1,7 +1,8 @@
 # Projeto Capacita Brasil Desenvolcimento Full Stack
+
 ### NOME: Projeto Integrador
-### Número de Membros: 4-6 pessoas
-### TEMA: CADA EQUIPE TEM UM TEMA DE UMA LOJA DE VENDAS
+### Número de Membros: 4 pessoas
+### TEMA: Loja de Autopeças
 ### Data da Entrega: 15/05/2025
 ### Tempo de apresentação: 5 minutos
 
@@ -19,3 +20,8 @@ O Site deve ter uma página de sobre a loja, produtos e localização.
 #### 3. 
 #### 4. 
 
+
+#### Aviso
+1. Os membros do grupo que forem entrando devem entrar no repositório e fazer um clone do remoto para o seu local.
+
+2. Após isso criar uma branch com seu nome para começar a fazer os commit's e enviar as alterações para o git.
